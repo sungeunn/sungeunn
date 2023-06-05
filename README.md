@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE29F,50:FFA99F,100:FF719A&height=300&fontAlignY=40&section=header&text=sung%20eun&fontSize=80&fontColor=FFFFFF)
 
 <div align="center">
+	<h3>🐹  Follow Me  🐹</h3>
+	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Email-005FF9?style=flat&logo=maildotru&logoColor=white"/>
 	<h3>💡  Tech Stack  💡</h3>
 	<img src="https://img.shields.io/badge/Java-0078D4?style=flat"/>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -14,7 +17,7 @@
 	<img src="https://img.shields.io/badge/intelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Notion-F9DC3E?style=flat&logo=notion&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><br><br>
-	<hr> 
+	<hr>
 </div>
 
 <div align="center">
