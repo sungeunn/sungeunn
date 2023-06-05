@@ -21,3 +21,6 @@
   <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sungeunn&show_icons=true&theme=omni&locale=kr"/>
   <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungeunn&theme=omni&layout=compact&locale=kr"/>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
