@@ -2,8 +2,7 @@
 
 <div align="center">
 	<h3>🐹  Follow Me  🐹</h3>
-	<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Email-005FF9?style=flat&logo=maildotru&logoColor=white"/><br><br>
+	<a href="https://velog.io/@saeun05" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
 	<h3>💡  Tech Stack  💡</h3>
 	<img src="https://img.shields.io/badge/Java-0078D4?style=flat"/>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
