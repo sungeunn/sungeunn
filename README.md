@@ -20,9 +20,3 @@
 	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/><br><br>
 </div>
 
-<br><br>
-
-<div align="center">
-  <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=sungeunn&show_icons=true&theme=omni&locale=kr"/>
-  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungeunn&theme=omni&layout=compact&locale=kr"/>
-</div>
